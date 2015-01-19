@@ -1,3 +1,5 @@
 hello world
 creating a new branch is quick and simple.
 testig --no-ff way of merging
+add sth not finished yet
+now finished.

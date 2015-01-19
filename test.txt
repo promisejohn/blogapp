@@ -4,3 +4,5 @@ testig --no-ff way of merging
 fix bug 101
 add sth not finished yet
 now finished.
+
+modify in tmp/blogapp
